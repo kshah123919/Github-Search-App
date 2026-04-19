@@ -2,7 +2,7 @@ import { useState,useEffect } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-//change background color bg-gradient-to-br from-slate-900 via-slate-800 to-slate-700
+
 function App() {
   const [search, setSearch] = useState("")
  const [user,setUser]=useState(null)
