@@ -42,13 +42,6 @@ A simple and clean React application that allows users to search for GitHub prof
 
 ---
 
-## 🙌 Acknowledgements
-
-* GitHub API for providing user data
-* React & Tailwind CSS for UI development
-
----
-
 ## 📌 Author
 
 **Krish Shah**
